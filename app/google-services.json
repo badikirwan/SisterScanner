@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "598996047779",
+    "firebase_url": "https://sister-scanner.firebaseio.com",
+    "project_id": "sister-scanner",
+    "storage_bucket": "sister-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598996047779:android:a0f21eb8ab1f8b8e",
+        "android_client_info": {
+          "package_name": "com.badikirwan.sistersacnner.sisterscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598996047779-9m4ioghvu89hv8k50io9j7nqbs8itu8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Ycu8n_evPUVbTnZttqL0hI5OCdkJYo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

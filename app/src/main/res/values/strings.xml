@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sister Scanner</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan_the_qr_code_on_the_poster_and_book_your_movie_tickets">Scan the barcode on the exam card and validate it
+    </string>
+    <string name="scan_barcode">Scan BarCode</string>
+    <string name="detected_barcodes">Detected Barcodes</string>
+</resources>
