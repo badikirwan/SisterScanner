@@ -13,14 +13,14 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
         <activity
-                android:name=".MainActivity"
+                android:name=".view.main.MainActivity"
                 android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".BarcodeReaderActivity"
+        <activity android:name=".view.barcodereader.BarcodeReaderActivity"
                   android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                     android:name="com.google.firebase.ml.vision.DEPENDENCIES"
